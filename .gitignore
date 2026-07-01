@@ -4,3 +4,6 @@ Saved/
 DerivedDataCache/
 .vs/
 *.sln
+
+!/Plugins/DestructibleGlass/Binaries/
+!/Plugins/DestructibleGlass/Binaries/*
